@@ -4,3 +4,6 @@
 [submodule "libraryPart001"]
 	path = libraryPart001
 	url = https://github.com/unjerry/libraryPart001.git
+[submodule "status_ledger"]
+	path = status_ledger
+	url = https://github.com/unjerry/status_ledger.git
